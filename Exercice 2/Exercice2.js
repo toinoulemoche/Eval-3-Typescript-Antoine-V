@@ -1,0 +1,1 @@
+type UtilisateurAnonyme=Partial<Pick<Administrateur, "nom" | "ip">>;
